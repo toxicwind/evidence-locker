@@ -1,0 +1,1 @@
+{"description":"Turn a folder of evidence into one self-contained HTML file — zero network requests.","license":"MIT","name":"@toxicwind/evidence-locker","scripts":{"build":"bun src/build.ts","demo":"bun src/build.ts example --out /tmp/evidence-locker-demo.html --title \"Harbor Street incident\"","serve":"bun src/server.ts"},"type":"module","version":"0.1.0"}
